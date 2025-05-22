@@ -1,5 +1,6 @@
 from flask import Flask, request, render_template, jsonify
 import pandas as pd
+import os
 
 app = Flask(__name__)
 data = pd.read_csv('students.csv')
@@ -30,4 +31,5 @@ def get_student_data(student_id):
     return jsonify(student.to_dict(orient='records')[0])
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    port = int(os.environ.get('PORT', 5000))  # default to 5000 if not in Render
+    app.run(host='0.0.0.0', port=port, debug=True)
