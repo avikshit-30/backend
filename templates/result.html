@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head><title>Result</title></head>
+<body>
+  {% if found %}
+    <h2>Student ID: {{ student.id }}</h2>
+    <h3>Name: {{ student.name }}</h3>
+    <h4>Quiz Scores:</h4>
+    <ul>
+      {% for i in range(11) %}
+        <li>Quiz {{ i+1 }}: {{ student.quizzes[i] }}</li>
+      {% endfor %}
+    </ul>
+    <h4>Best Nine Total: {{ student.best_nine }}</h4>
+  {% else %}
+    <h2>No student found with that ID.</h2>
+  {% endif %}
+</body>
+</html>
