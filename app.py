@@ -1,7 +1,9 @@
 from flask import Flask, request, render_template, jsonify
 import pandas as pd
 import os
+import logging
 
+logging.basicConfig(level=logging.INFO)
 app = Flask(__name__)
 data = pd.read_csv('students.csv')
 
@@ -27,7 +29,8 @@ def result():
 
 @app.route('/api/student/<student_id>', methods=['GET'])
 def get_student_data(student_id):
-    student = data[data['ID NO'].str.strip() == student_id.strip()]
+    logging.info(f"API Request for Student ID: {student_id} from IP: {request.remote_addr}")
+    student = data[data['ID NO'] == student_id]
     if student.empty:
         return jsonify({'error': 'Student not found'}), 404
     return jsonify(student.to_dict(orient='records')[0])
