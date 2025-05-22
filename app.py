@@ -16,8 +16,8 @@ def home():
 
 @app.route('/result', methods=['POST'])
 def result():
-    student_id = request.form['id']
-    student = data[data['ID NO'] == student_id]
+    student_id = request.form['id'].strip()  # Remove extra spaces
+    student = data[data['ID NO'].str.strip() == student_id]
     if student.empty:
         return "Student not found"
     student_dict = student.to_dict(orient='records')[0]
@@ -25,7 +25,7 @@ def result():
 
 @app.route('/api/student/<student_id>', methods=['GET'])
 def get_student_data(student_id):
-    student = data[data['ID NO'] == student_id]
+    student = data[data['ID NO'].str.strip() == student_id.strip()]
     if student.empty:
         return jsonify({'error': 'Student not found'}), 404
     return jsonify(student.to_dict(orient='records')[0])
