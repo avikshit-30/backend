@@ -16,8 +16,10 @@ def home():
 
 @app.route('/result', methods=['POST'])
 def result():
-    student_id = request.form['id'].strip()  # Remove extra spaces
+    student_id = request.form['id'].strip() 
+    print(student_id) # Remove extra spaces
     student = data[data['ID NO'].str.strip() == student_id]
+    print(student)
     if student.empty:
         return "Student not found"
     student_dict = student.to_dict(orient='records')[0]
