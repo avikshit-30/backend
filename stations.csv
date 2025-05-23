@@ -1,0 +1,454 @@
+Sl.No,ID,Station,City,Date,Stipend
+1,6423,10xConstruction.ai,Bengaluru,"May 22nd, 2025",
+2,6944,10xConstruction.ai - Embedded,Bengaluru,"May 20th, 2025",35000
+3,6941,10xConstruction.ai - IT,Bengaluru,"May 20th, 2025",35000
+4,6945,10xConstruction.ai - Mechanical,Bengaluru,"May 20th, 2025",35000
+5,6942,10xConstruction.ai - Robotics,Bengaluru,"May 20th, 2025",35000
+6,5000,"1Clicktech Global Services Pvt. Ltd.,Gurugram",Gurgaon,"May 20th, 2025",
+7,7206,3ktechnologies,Pune,"May 20th, 2025",25000
+8,7084,A79.ai,Bengaluru,"May 20th, 2025",80000
+9,7087,Acko Insurance,Bengaluru,"May 20th, 2025",40000
+10,7210,Acuity Knowledge Partners - Data Visualization,Bengaluru,"May 20th, 2025",25000
+11,7209,Acuity Knowledge Partners-AI & Finance,Bengaluru,"May 20th, 2025",25000
+12,4677,"Aditya Birla Science & Technology Company Ltd. (ABSTC) ,Mumbai",Mumbai,"May 20th, 2025",
+13,5902,AECOM - Pune,Pune,"May 20th, 2025",7500
+14,4706,"AECOM,Mumbai",Mumbai,"May 20th, 2025",7500
+15,7168,Agam Capital,Mumbai,"May 20th, 2025",125000
+16,7294,"Alembic Pharmaceuticals,Mumbai",Mumbai,"May 20th, 2025",
+17,5831,AlmaConnect,Gurgaon,"May 22nd, 2025",
+18,4946,"AltiusHub,Hyderabad",Hyderabad,"May 20th, 2025",50000
+19,6087,Altruist Technologies Private Limited,Panchkula,"May 20th, 2025",
+20,7329,Altruistic Solutions,India,"May 22nd, 2025",
+21,7342,Amagi Media Labs Pvt Ltd,Bengaluru,"May 22nd, 2025",30000
+22,6300,AMAZON SDE,Bengaluru,"May 20th, 2025",110000
+23,5154,"AMD India Pvt Ltd,Bengaluru",Bengaluru,"May 20th, 2025",
+24,7357,"AMD India Pvt Ltd,Hyderabad",Hyderabad,"May 20th, 2025",
+25,5643,"American Express - AiDa, Bengaluru",Bengaluru,"May 22nd, 2025",150000
+26,5644,"American Express - AiDa, Gurugram",Gurgaon,"May 22nd, 2025",150000
+27,5645,American Express AI Products,Gurgaon,"May 20th, 2025",150000
+28,6875,Ampere Computing,Bengaluru,"May 20th, 2025",50000
+29,6376,AquaCarta ( partnered by Waterlife India ) - Aerial Imagery,Hyderabad,"May 20th, 2025",
+30,5028,"Argenbright Innovation Lab,Bengaluru",Bengaluru,"May 20th, 2025",25000
+31,6974,ARKS Ventures - Non Tech,San Francisco,"May 20th, 2025",50000
+32,6972,ARKS Ventures - Tech,San Fransisco,"May 20th, 2025",50000
+33,6366,Astera Labs,Bengaluru,"May 20th, 2025",90000
+34,6580,Astrikos AI Private Limited,Bengaluru,"May 20th, 2025",
+35,7244,Axis Capital Ltd,Mumbai,"May 20th, 2025",10000
+36,7054,Bachatt ( Trusave Fintech Private Limited ) - Product Management,New Delhi,"May 20th, 2025",30000
+37,7053,Bachatt ( Trusave Fintech Private Limited ) - SDE Backend,New Delhi,"May 20th, 2025",30000
+38,7052,Bachatt ( Trusave Fintech Private Limited ) - SDE Frontend,New Delhi,"May 20th, 2025",30000
+39,7055,Bachatt ( Trusave Fintech Private Limited ) - SDE Software Development,New Delhi,"May 20th, 2025",30000
+40,4674,"Bharat Forge Ltd.,Pune",Pune,"May 20th, 2025",
+41,5834,Bharat Petroleum Corporation Limited,Greater Noida,"May 22nd, 2025",
+42,6259,BigBasket,Bengaluru,"May 20th, 2025",
+43,7170,BigLook,Waterford,"May 20th, 2025",70000
+44,5988,"Birla Cellulose, Kharach",Kharach,"May 20th, 2025",
+45,5221,"Birla Cellulose, Pulp & Fiber Business, Harihar",Harihar,"May 20th, 2025",20000
+46,5243,"Birla Polyfibers,Harihar",Harihar,"May 20th, 2025",
+47,5564,Bisquare Systems Private Limited,Noida,"May 20th, 2025",40000
+48,4845,"BlokTrek,Bengaluru",Bengaluru,"May 20th, 2025",
+49,7302,BMW,Pan India,"May 22nd, 2025",
+50,6389,Bread Financial - Model Dev,Bengaluru,"May 22nd, 2025",50000
+51,7354,Bread Financial - Model Validation,Bengaluru,"May 22nd, 2025",50000
+52,4670,"BSCPL Infrastructure Ltd.,Hyderabad",Hyderabad,"May 22nd, 2025",
+53,6877,Cactus Partners,Gurgaon,"May 20th, 2025",40000
+54,4967,"Cadence Design Systems,Bengaluru",Bengaluru,"May 20th, 2025",40000
+55,6184,Capital One,Bengaluru,"May 20th, 2025",
+56,4968,"Carbon Reduction Capital, LLC , Mumbai",Mumbai,"May 20th, 2025",100000
+57,5734,CBX1 India Pvt Ltd,Bengaluru,"May 20th, 2025",175000
+58,7339,Celeredge.ai,London,"May 22nd, 2025",500
+59,6124,"CIRT- CENTRAL INSTITUTE OF ROAD TRANSPORT, PUNE",Pune,"May 22nd, 2025",
+60,7249,Cloudcraftz Solutions Pvt Limited,Bengaluru,"May 20th, 2025",50000
+61,7250,CNH Industrial (India) Pvt. Ltd,Noida,"May 20th, 2025",30000
+62,7058,CodeRound - Non Tech,Mumbai,"May 20th, 2025",25000
+63,7057,CodeRound - Tech,Mumbai,"May 20th, 2025",40000
+64,7350,Cognext Analytics Private Limited - Agentic AI,Mumbai,"May 22nd, 2025",50000
+65,7352,Cognext Analytics Private Limited - Analytics / Optimization,Mumbai,"May 22nd, 2025",50000
+66,7351,Cognext Analytics Private Limited - LLM,Mumbai,"May 22nd, 2025",50000
+67,4988,"Complete lnstrumentation Solutions Pvt. Ltd.,Gurugram",Gurgaon,"May 20th, 2025",
+68,7233,Coresmith Technologies Private Limited (NuCurrent INC),Bengaluru,"May 20th, 2025",50000
+69,5515,Covvalent,Gurgaon,"May 20th, 2025",25000
+70,6320,CRED (Dreamplug technologies private limited),Bengaluru,"May 20th, 2025",100000
+71,6373,Crenza Pharmaceuticals Pvt. Ltd,Hyderabad,"May 22nd, 2025",
+72,5804,Critical Path Technologies Private Limited (“SalarySe) - Product,Gurgaon,"May 20th, 2025",61000
+73,4910,Critical Path Technologies Private Limited (“SalarySe) - Technology,Gurgaon,"May 20th, 2025",71000
+74,5835,CSIR - Central Road Research Institute (CRRI),New Delhi,"May 20th, 2025",
+75,4676,"CSIR - National chemical laboratory, Pune",Pune,"May 20th, 2025",
+76,5618,CSIR NML,Jamshedpur,"May 20th, 2025",
+77,5729,CSIR-NAL,Bengaluru,"May 20th, 2025",
+78,5954,CSIR-National Metallurgical Laboratory (NML) Madras Centre,Chennai,"May 22nd, 2025",
+79,5148,"Dassault Systems,Pune",Pune,"May 22nd, 2025",40000
+80,6148,"Dayworks Private Limited (Weekday), Bengaluru",Bengaluru,"May 20th, 2025",20000
+81,5884,"DBOI- Global Reporting,Mumbai/Pune",Mumbai,"May 20th, 2025",
+82,7076,Deccan Fine Chemicals,Goa,"May 20th, 2025",
+83,5514,"Delightful Gourmet Private Limited, Licious",Bengaluru,"May 20th, 2025",40000
+84,7245,Dezerv Investments - Analytics,Bengaluru,"May 20th, 2025",75000
+85,5548,Dezerv Investments - Asset Adoption,Bengaluru,"May 20th, 2025",75000
+86,7256,Dezerv Investments - Comms Infra,Bengaluru,"May 20th, 2025",75000
+87,7255,Dezerv Investments - Engagement,Bengaluru,"May 20th, 2025",75000
+88,7253,Dezerv Investments - Execution,Bengaluru,"May 20th, 2025",75000
+89,5706,Dezerv Investments - In-App Engagement,Bengaluru,"May 20th, 2025",75000
+90,7252,Dezerv Investments - Investments,Bengaluru,"May 20th, 2025",75000
+91,7258,Dezerv Investments - QC,Bengaluru,"May 20th, 2025",75000
+92,4945,"Divgi Torq Transfer Systems Ltd. Shirwal,Pune",Satara (Pune),"May 22nd, 2025",
+93,4760,"Divgi TorqTransfer Systems Pvt. Ltd. - Bhosari,Pune",Pune,"May 22nd, 2025",
+94,5598,"Divgi TorqTransfer Systems Pvt. Ltd. Sirsi, Karnataka",Sirsi,"May 22nd, 2025",
+95,6056,DMI Finance Limited,New Delhi,"May 20th, 2025",
+96,7338,Dream Game Studios,Pune,"May 22nd, 2025",30000
+97,6876,Dunboxed Solutions Private Limited,Hyderabad,"May 20th, 2025",30000
+98,6614,Duratech Manufacturing Private Limited,Raipur,"May 20th, 2025",10000
+99,4863,"e6data,Bengaluru",Bengaluru,"May 20th, 2025",
+100,6435,EarnIn,Bengaluru,"May 20th, 2025",1000
+101,7075,Eddy Finance,Bengaluru,"May 20th, 2025",20000
+102,4814,Eltropy - Software Development,Bengaluru,"May 20th, 2025",50000
+103,7176,Embedos Engineering LLP,Mumbai,"May 20th, 2025",
+104,6537,"ENEA, Hyderabad",Hyderabad,"May 20th, 2025",
+105,7074,Engati Technologies Private Limited - Data Science,Bengaluru,"May 20th, 2025",50000
+106,7073,Engati Technologies Private Limited - Product Management,Bengaluru,"May 20th, 2025",45000
+107,6420,Ennoventure Bengaluru,Bengaluru,"May 20th, 2025",
+108,7236,Ericsson R and D,Bengaluru,"May 20th, 2025",60000
+109,7261,Eureka Forbes Ltd - Chemical,Bengaluru,"May 20th, 2025",40000
+110,6624,Eureka Forbes Ltd - Computer Science,Gurgaon,"May 20th, 2025",40000
+111,6335,Eureka Forbes Ltd - Data Analytics,Mumbai,"May 20th, 2025",40000
+112,7263,Eureka Forbes Ltd - Data Science,Bengaluru,"May 20th, 2025",40000
+113,5269,Eureka Forbes Ltd - Embedded Systems,Bengaluru,"May 20th, 2025",40000
+114,7262,Eureka Forbes Ltd - Mechanical,Bengaluru,"May 20th, 2025",40000
+115,7193,Evolve - Non Tech,New Delhi,"May 20th, 2025",30000
+116,5719,Evolve - Tech,New Delhi,"May 20th, 2025",30000
+117,5272,"Exobot Dynamics Pvt Ltd,Sonepat",Sonipat,"May 20th, 2025",
+118,7172,FemtoWeb Technologies Pvt Ltd ( Nanonets ),Bengaluru,"May 20th, 2025",40000
+119,7164,Fintech Blue Solutions Pvt. Ltd. ( turtlemint ),Mumbai,"May 20th, 2025",
+120,5934,Forus Health,Bengaluru,"May 20th, 2025",
+121,6379,Franklin Templeton - Data Science/Finance,Hyderabad,"May 22nd, 2025",
+122,4743,Frontier Tower Associates Philippines Inc.,Bengaluru,"May 20th, 2025",
+123,5590,Genpact-Bengaluru,PAN India,"May 20th, 2025",30000
+124,5584,Genpact-Gurgaon,Gurgaon,"May 20th, 2025",30000
+125,7089,Giga Health - Finance,Bengaluru,"May 20th, 2025",35000
+126,7090,Giga Health - Healthcare,Bengaluru,"May 20th, 2025",20000
+127,7181,Giga Health - Product,Bengaluru,"May 20th, 2025",20000
+128,6878,GJ-Map Solutions,Udaipur,"May 20th, 2025",30000
+129,7081,Global Innovation Hub Private Limited,Hyderabad,"May 20th, 2025",35000
+130,6059,"GMDC Science & Research Centre, Ahmedabad",Ahmedabad,"May 20th, 2025",25000
+131,5276,Goldman Sachs - Hyderabad,Hyderabad,"May 20th, 2025",
+132,5593,Goodera - Software Development Engineer (SDE),Bengaluru,"May 20th, 2025",125000
+133,4830,Goodera - Software Development Engineer Testing (SDET),Bengaluru,"May 20th, 2025",50000
+134,7303,"Grasim Industries Ltd - Pulp & Fibre Business - CRM, Mumbai",Mumbai,"May 20th, 2025",
+135,6429,Grasim Industries Ltd. (Chemical Division) Electrical,Bharuch,"May 20th, 2025",
+136,5837,"Grasim Industries,Nagda",Nagda,"May 20th, 2025",
+137,6457,GRASIM Pulp & Fiber Innovation Center,Mumbai,"May 20th, 2025",
+138,7051,GreenFortune Windows and Doors - Business Analytics.,Hyderabad,"May 20th, 2025",40000
+139,7050,GreenFortune Windows and Doors - Product Strategy,Hyderabad,"May 20th, 2025",40000
+140,7348,HEAPS HEALTH SOLUTIONS INDIA PVT. LTD - Customer Success,Bengaluru,"May 22nd, 2025",35000
+141,7349,HEAPS HEALTH SOLUTIONS INDIA PVT. LTD - Data Science,Bengaluru,"May 22nd, 2025",40000
+142,4749,"HERE Technologies India Pvt. Ltd,Mumbai",Mumbai,"May 20th, 2025",
+143,5256,Hevo Technologies India Pvt. Ltd.,Bengaluru,"May 20th, 2025",150000
+144,6125,"HEX Advisory Group, Gurgaon",Gurgaon,"May 20th, 2025",25000
+145,6445,"Hilti, Gurgaon",Gurgaon,"May 22nd, 2025",
+146,5784,House of Vaaree Pvt Ltd - Tech,Bengaluru,"May 22nd, 2025",
+147,6226,HSBC - Analyst,Gurgaon,"May 20th, 2025",
+148,7289,Hubert Enviro Care Systems - Consultancy,Chennai,"May 22nd, 2025",12000
+149,7322,Hubert Enviro Care Systems - R&D,Chennai,"May 22nd, 2025",12000
+150,7321,Hubert Enviro Care Systems - Turnkey Solutions,Chennai,"May 22nd, 2025",12000
+151,7288,Hubert Enviro Care Systems - Laboratory,Chennai,"May 20th, 2025",
+152,7179,IAMSTILLALIVE ONCO ECOSYSTEM PVT LTD,Kolhapur,"May 20th, 2025",15000
+153,7328,"iBRIC inStem, Bangalore",Bengaluru,"May 22nd, 2025",
+154,6500,Ideaspring Capital Advisors LLP,Bengaluru,"May 22nd, 2025",
+155,5110,"IFB Industries,Goa",Goa,"May 20th, 2025",
+156,4719,Immensitas Pvt. Ltd. (Lemnisk),Bengaluru,"May 20th, 2025",80000
+157,6892,Incredible Indian Moments Pvt. Ltd.,Jaipur,"May 20th, 2025",5000
+158,5550,"Indian Institute of Petroleum ( IIP ),Dehradun",Dehradun,"May 20th, 2025",
+159,4770,"Indus Insights - Data Analytics, Gurugram",Gurgaon,"May 22nd, 2025",100000
+160,7274,InMobi Technologies Pvt Ltd - Business Finance,Bengaluru,"May 20th, 2025",
+161,7272,InMobi Technologies Pvt Ltd - Business/ Product Analytics,Bengaluru,"May 20th, 2025",
+162,7275,InMobi Technologies Pvt Ltd - HR (Learning & Development),Bengaluru,"May 20th, 2025",
+163,7273,InMobi Technologies Pvt Ltd - HR Analytics,Bengaluru,"May 20th, 2025",
+164,7271,InMobi Technologies Pvt Ltd - Software Engineer,Bengaluru,"May 20th, 2025",
+165,6629,Innovapptive Inc,Hyderabad,"May 22nd, 2025",
+166,6887,Integra Design,Delhi,"May 20th, 2025",15000
+167,4717,"Integrated Active Monitoring Pvt. Ltd.,Pune",Pune,"May 20th, 2025",
+168,7314,Intel - Hardware,Bengaluru,"May 22nd, 2025",
+169,7315,Intel - Software,Bengaluru,"May 22nd, 2025",
+170,6116,Intellihealth Solutions Private Ltd (Truemeds) - Business Data,Mumbai,"May 20th, 2025",26000
+171,5991,Intellihealth Solutions Private Ltd (Truemeds) - Growth Customer Retention,Mumbai,"May 20th, 2025",26000
+172,7222,InterviewVector - Product Management,Gurgaon,"May 20th, 2025",30000
+173,7228,InterviewVector - Sales Development (Domestic),Gurgaon,"May 20th, 2025",25000
+174,7227,InterviewVector - Sales Development (US),Gurgaon,"May 20th, 2025",25000
+175,7223,InterviewVector - Tech,Gurgaon,"May 20th, 2025",30000
+176,7077,Iravan Technologies Private Limited,Pune,"May 20th, 2025",20000
+177,6390,"ITC Limited, PSPD - Financial Data Analysis, Hyderabad",Hyderabad,"May 22nd, 2025",
+178,6391,"ITC Limited, PSPD - Tribeni (Kolkata)",Kolkata,"May 20th, 2025",
+179,5737,"ITC Limited, PSPD (Paperboards and Specialty Papers Division), Bhadrachalam",Bhadrachalam,"May 20th, 2025",
+180,4755,"IUDX Program Unit, Indian Institute of science - Data Kaveri,Bengaluru",Bengaluru,"May 20th, 2025",30000
+181,5033,"J29 F&B Consultancy LLP, ( Food Pe ) Gurugram",Gurgaon,"May 22nd, 2025",
+182,7211,JPMC - Chief Data & Analytics Office,Mumbai,"May 20th, 2025",150000
+183,5787,JPMC - CIB R&A - Banking,Mumbai,"May 20th, 2025",150000
+184,5678,JPMC - CIB R&A – Global Research,Mumbai,"May 20th, 2025",150000
+185,5679,JPMC - CIB R&A – Markets – Sales & CCAR,Mumbai,"May 20th, 2025",150000
+186,4818,"JPMC - CIB Research & Analytics,Research Modernization – Project Management",Mumbai,"May 20th, 2025",150000
+187,5788,JPMC - GR&C - CCB Risk Strategic Analytics,Mumbai,"May 20th, 2025",150000
+188,4933,JPMC - GR&C –Model Risk Governance & Review (MRGR) Quantitative Analytics,Mumbai,"May 20th, 2025",150000
+189,5674,JPMC - GR&C WCR Counterparty Credit Risk,Mumbai,"May 20th, 2025",150000
+190,5675,JPMC - GR&C WCR Portfolio Analytics - Risk Grading Methodology & Climate Risk,Mumbai,"May 20th, 2025",150000
+191,5676,JPMC - GR&C WCR Portfolio Analytics- Analytics Strategy,Mumbai,"May 20th, 2025",150000
+192,7214,JPMC - Markets – Sales & CCAR,Mumbai,"May 20th, 2025",150000
+193,5680,JPMC - Markets - Trading & Structuring,Mumbai,"May 20th, 2025",150000
+194,7217,JPMC - Risk Reporting & Middle Office/Risk Controller,Mumbai,"May 20th, 2025",150000
+195,6889,Kale Logistics Solutions- AI/ML,Thane,"May 20th, 2025",55000
+196,6891,Kale Logistics Solutions- Development,Thane,"May 20th, 2025",55000
+197,6890,Kale Logistics Solutions- Product,Thane,"May 20th, 2025",55000
+198,7317,Kalpataru Projects (PAN India),PAN India,"May 22nd, 2025",
+199,4747,"KFin Technologies Private Limited,Hyderabad",Hyderabad,"May 20th, 2025",25000
+200,7353,Komax Automation India Pvt. Ltd.,Gurgaon,"May 22nd, 2025",25000
+201,7165,Konecranes & Demag Pvt Ltd,Pune,"May 20th, 2025",20000
+202,7323,Kosoku Technologies Pvt Ltd,Pune,"May 22nd, 2025",25000
+203,5658,KPMG - Modelling and Valuation Bengaluru,Bangalore,"May 22nd, 2025",
+204,7174,L7 Informatics India Private Limited,Bengaluru,"May 20th, 2025",26600
+205,6893,Leena AI,Gurgaon,"May 20th, 2025",25000
+206,7191,Lenscorp AI Private Limited - AI Engineering,Gurgaon,"May 20th, 2025",40000
+207,7232,Lenscorp AI Private Limited - Computer Vision,Gurgaon,"May 20th, 2025",40000
+208,7230,Lenscorp AI Private Limited - Cybersecurity,Gurgaon,"May 20th, 2025",45000
+209,7231,Lenscorp AI Private Limited - Data Science,Gurgaon,"May 20th, 2025",45000
+210,7173,Longstraw Carbon Pvt. Ltd,Pune,"May 20th, 2025",8000
+211,5003,"Mach33.aero,Bengaluru",Bengaluru,"May 22nd, 2025",
+212,6479,Mahindra Accelo Ltd- Chakan (Pune),Pune,"May 20th, 2025",
+213,5078,Mahindra Accelo Ltd- Mumbai (Worli),Mumbai,"May 20th, 2025",
+214,7169,Max Now Pte. Ltd. (Heymax.ai),Singapore,"May 20th, 2025",800
+215,4642,"MBB Labs Private Limited (Maybank),Bengaluru",Bengaluru,"May 20th, 2025",25000
+216,5812,Mediwhale,Seoul,"May 22nd, 2025",
+217,5732,MELSS,Chennai,"May 20th, 2025",
+218,6032,Mettler Toledo India Pvt. Ltd.,Mumbai,"May 20th, 2025",10000
+219,6631,Micron Technology- Bengaluru/Hyderabad,Bengaluru/Hyderabad,"May 22nd, 2025",
+220,4832,"MIPS Embedded Technologies Pvt. Ltd,Bengaluru",Bengaluru,"May 20th, 2025",
+221,6540,Mitaahaar Food Ideas Pvt Ltd. (Brand name - GoliSoda and Great Indian Drinks),Hyderabad,"May 20th, 2025",
+222,7334,Morgan Stanley - IAD - Quantitative Model auditor role,Mumbai,"May 22nd, 2025",
+223,4834,Morgan Stanley - IAD Data Analytics role,Mumbai,"May 20th, 2025",100000
+224,7267,Morgan Stanley - IED GMG FE role,Mumbai,"May 20th, 2025",125000
+225,5684,Morgan Stanley FID - Counterparty Risk role,Mumbai,"May 20th, 2025",100000
+226,5687,Morgan Stanley FID Research roles,Mumbai,"May 20th, 2025",125000
+227,7307,Morgan Stanley IED GMG - Counterparty Risk role,Mumbai,"May 22nd, 2025",
+228,7308,Morgan Stanley IED GMG – EXO Trading role.,Mumbai,"May 22nd, 2025",
+229,7309,Morgan Stanley IED GMG – QIS Strats role,Mumbai,"May 22nd, 2025",
+230,7310,Morgan Stanley IED GMG – Quantitative and Investment Strategies role.,Mumbai,"May 22nd, 2025",
+231,7311,Morgan Stanley MRM role,Mumbai,"May 22nd, 2025",
+232,7266,Morgan Stanley Primary Market Research role,Mumbai,"May 20th, 2025",113000
+233,5691,Morgan Stanley Research - Data Strats,Mumbai,"May 20th, 2025",
+234,7306,Morgan Stanley Research role,Mumbai,"May 22nd, 2025",
+235,7312,Morgan Stanley Risk-Model Risk Management,Mumbai,"May 22nd, 2025",
+236,7313,Morgan Stanley Risk-Risk Analytics,Mumbai,"May 22nd, 2025",
+237,7268,Morgan Stanley-Funds Services Division - Client Computing Solutions,Mumbai,"May 20th, 2025",113000
+238,7269,Morgan Stanley-Funds Services Division - Portfolio Analytics,Mumbai,"May 20th, 2025",113000
+239,4683,"Morningstar - Index Management and Analytics,Mumbai",Mumbai,"May 20th, 2025",
+240,5029,"Mosdorfer India Pvt. Ltd. ,Nashik",Nashik,"May 20th, 2025",15000
+241,6285,MountTech India Ventures Pvt Ltd,New Delhi,"May 20th, 2025",20000
+242,5026,MSCI Services Pvt. Ltd. - NPD,Mumbai,"May 20th, 2025",60000
+243,6180,Myntra Designs Pvt. Ltd,Bengaluru,"May 20th, 2025",70000
+244,5655,Nagpal & Associates,Bhiwadi,"May 22nd, 2025",
+245,7196,Naptick,Thane,"May 20th, 2025",110000
+246,5123,"National Centre for Biological Sciences (NCBS) ,Bengaluru",Bengaluru,"May 20th, 2025",
+247,6632,NAVATA ROAD TRANSPORT,Hyderabad,"May 20th, 2025",
+248,6256,NAVATA SUPPLY CHAIN SOLUTIONS PVT LTD,Hyderabad,"May 20th, 2025",
+249,7316,"NCCBM, Ballabgarh",Ballabgarh,"May 22nd, 2025",
+250,7226,Necessa Security & Integrated Services Pvt Ltd - Non Tech,Gurgaon,"May 20th, 2025",10000
+251,7225,Necessa Security & Integrated Services Pvt Ltd - Tech,Gurgaon,"May 20th, 2025",10000
+252,7333,NeoGrowth Credit Pvt Ltd- HR,Mumbai,"May 22nd, 2025",35000
+253,7293,NeoGrowth Credit Pvt Ltd- Product,Mumbai,"May 22nd, 2025",35000
+254,7332,NeoGrowth Credit Pvt Ltd- Risk,Mumbai,"May 22nd, 2025",35000
+255,7331,NeoGrowth Credit Pvt Ltd- Technology,Mumbai,"May 22nd, 2025",35000
+256,5540,NetApp India Pvt ltd,Bengaluru,"May 20th, 2025",60000
+257,7079,NetNet Fintech Pvt Ltd - Non Tech,Bengaluru,"May 20th, 2025",50000
+258,7078,NetNet Fintech Pvt Ltd - Tech,Bengaluru,"May 20th, 2025",50000
+259,6885,Neurofin AI technologies Pvt. Ltd.,Bengaluru,"May 20th, 2025",50000
+260,6274,Nielsen,Bengaluru,"May 20th, 2025",50000
+261,7345,NimbleEdge Private Limited,Bengaluru,"May 22nd, 2025",80000
+262,4792,Nirmaan Organization - Non Tech,Hyderabad,"May 20th, 2025",40000
+263,6521,Nirmaan Organization - Tech,Hyderabad,"May 20th, 2025",50000
+264,7178,Niva Bhupa,Gurgaon,"May 20th, 2025",50000
+265,5060,Nomura Fintech - India Innovation Office,Mumbai,"May 22nd, 2025",125000
+266,5697,Nomura Fintech IT Risk,Mumbai,"May 22nd, 2025",
+267,5698,Nomura Global Markets Analyst Internship,Mumbai,"May 22nd, 2025",
+268,5238,Nomura Global Wholesale Strategy,Mumbai,"May 22nd, 2025",
+269,7318,Nomura ITD International Wealth Management (IWM) division,Mumbai,"May 22nd, 2025",
+270,5695,Nomura Market Risk,Mumbai,"May 22nd, 2025",
+271,5700,Nomura Risk Management - CEM,Mumbai,"May 22nd, 2025",100000
+272,5701,Nomura Risk Management - CRM,Mumbai,"May 22nd, 2025",100000
+273,5059,Nomura Risk Management - Risk Infrastructure,Mumbai,"May 22nd, 2025",
+274,6567,NOMURA RISK MANAGEMENT - STRESS TESTING,Mumbai,"May 22nd, 2025",
+275,7056,Norquest Brands Private Limited,Ahmedabad,"May 20th, 2025",5000
+276,5994,"Novartis- iCSM Implementation Support Raidurg, Hyderabad",Hyderabad,"May 20th, 2025",
+277,7219,Novel Jewels – Aditya Birla Jewellery - IT,Mumbai,"May 20th, 2025",40000
+278,7218,Novel Jewels – Aditya Birla Jewellery - Project / Infrastructure,Mumbai,"May 20th, 2025",40000
+279,7216,Novel Jewels – Aditya Birla Jewellery - Retail,Mumbai,"May 20th, 2025",40000
+280,7220,Novel Jewels – Aditya Birla Jewellery - Supply Chain,Mumbai,"May 20th, 2025",40000
+281,5976,Novus Hi-Tech Robotic Systemz Pvt. Ltd.,Gurgaon,"May 20th, 2025",20000
+282,7355,Nurix Labs Private Limited - Growth- Bengaluru,Bengaluru,"May 22nd, 2025",
+283,7356,Nurix Labs Private Limited - Sales - Bengaluru,Bengaluru,"May 22nd, 2025",40000
+284,5815,Nurix Labs Private Limited - Tech,Bengaluru,"May 20th, 2025",80000
+285,5851,"Nutanix , Bengaluru",Bengaluru,"May 20th, 2025",140000
+286,5185,Nvidia Graphics - Bengaluru,Bengaluru,"May 20th, 2025",
+287,6641,"Nykaa - Analytics, Bengaluru",Bangalore And Gurgoan,"May 20th, 2025",60000
+288,6449,Nykaa - Data Science,Bengaluru,"May 20th, 2025",60000
+289,5252,"OfBusiness,Gurugram",Gurgaon,"May 20th, 2025",40000
+290,7320,Omnissa,Bengaluru,"May 22nd, 2025",
+291,7290,OppDoor,Bengaluru,"May 20th, 2025",
+292,5516,"Oracle, Bangalore",Bengaluru,"May 20th, 2025",
+293,7180,Pannaiamman&Co,Chennai,"May 20th, 2025",10000
+294,7229,PanScience Innovations - Non Tech,New Delhi,"May 20th, 2025",15000
+295,7215,PanScience Innovations - Tech,New Delhi,"May 20th, 2025",15000
+296,5234,Pfizer Healthcare India Pvt.Ltd,Chennai,"May 20th, 2025",40000
+297,5720,PharmSight Research and Analytics Pvt. Ltd.,Faridabad,"May 20th, 2025",
+298,7086,Phonon Communications Pvt Ltd,Vadodara,"May 20th, 2025",15000
+299,7341,Pintel AI,Noida,"May 22nd, 2025",30000
+300,5507,Pioneer Electrocables Pvt Ltd,"Biratnagar, Morang, Nepal","May 20th, 2025",
+301,5056,"Piramal Group - Tech, Bengaluru",Bengaluru,"May 20th, 2025",
+302,5757,Piramal Pharma Limited,Mumbai,"May 20th, 2025",75000
+303,6504,Porter - Business - Growth (Retention & GTM Strategy),Bengaluru,"May 20th, 2025",40000
+304,6582,Porter - Business Interns,Mumbai,"May 20th, 2025",
+305,5652,Praj Industries,Pune,"May 20th, 2025",
+306,4939,"Project44 Software Services Pvt. Ltd., Bengaluru",Bengaluru,"May 22nd, 2025",
+307,5763,ProteanTecs - BI Automation,Bengaluru,"May 20th, 2025",
+308,5764,ProteanTecs - Infrastructure Automation,Bengaluru,"May 20th, 2025",
+309,4751,ProteanTecs - Machine Learning-Operational and Quality,Bengaluru,"May 20th, 2025",
+310,5765,ProteanTecs - Physical Design RTL2GDSII,Bengaluru,"May 20th, 2025",
+311,7291,PTC India Financial Services Ltd,New Delhi,"May 20th, 2025",
+312,7085,PwC India,PAN India,"May 20th, 2025",60000
+313,6337,PwC US Advisory,Bengaluru,"May 22nd, 2025",
+314,7319,Quadeye,Gurgaon,"May 22nd, 2025",300000
+315,6290,"QualityKiosk Technologies India Pvt Ltd , Navi mumbai",Mumbai,"May 22nd, 2025",
+316,7208,Quickverse India Private Limited,Aurangabad,"May 20th, 2025",20000
+317,4915,Qure.ai Technologies Pvt. Ltd.,Bengaluru,"May 20th, 2025",
+318,7235,Rainbow children’s Medicare Limited,Hyderabad,"May 20th, 2025",30000
+319,5803,Ramboll India Pvt Ltd,Gurgaon,"May 20th, 2025",
+320,6883,Ratham - Non Tech,Hyderabad,"May 20th, 2025",25000
+321,6882,Ratham - Tech,Hyderabad,"May 20th, 2025",30000
+322,5565,RD Consultants,Mumbai,"May 22nd, 2025",
+323,7234,Remedo Clinitech Pvt. Ltd.,Noida,"May 20th, 2025",18000
+324,6472,"Renesas, Bengaluru",Bengaluru,"May 20th, 2025",
+325,7259,Resollect - Backend Developer,Bengaluru,"May 20th, 2025",25000
+326,7257,Resollect - Full Stack Developer,Bengaluru,"May 22nd, 2025",25000
+327,7260,Resollect - Product,Bengaluru,"May 20th, 2025",25000
+328,7082,"RISA Labs, Inc - Healthcare- Data Science",Bengaluru,"May 20th, 2025",50000
+329,7083,"RISA Labs, Inc - Healthcare -Product",Bengaluru,"May 20th, 2025",50000
+330,7080,"RISA Labs, Inc - IT",Bengaluru,"May 20th, 2025",50000
+331,5087,Rivos Systems - Bengaluru,Bengaluru,"May 20th, 2025",
+332,5854,RT Vision Technologies Pvt. Ltd,Greater Noida,"May 20th, 2025",
+333,7060,Rupeeflo ( DMA Rupeeflo Technologies Private Limited ) - Non Tech,Bengaluru,"May 20th, 2025",50000
+334,7059,Rupeeflo ( DMA Rupeeflo Technologies Private Limited ) - Tech,Bengaluru,"May 20th, 2025",50000
+335,5537,"Rusk Media Pvt. Ltd, IT, New Delhi",New Delhi,"May 20th, 2025",85000
+336,7346,Sairajsri Business Solutions Private Limited - Data Science,Hyderabad,"May 22nd, 2025",10000
+337,7347,Sairajsri Business Solutions Private Limited - IT,Hyderabad,"May 22nd, 2025",10000
+338,7171,Samaro software pvt ltd,Navi Mumbai,"May 20th, 2025",25000
+339,6040,Sarda Metals & Alloys Ltd,Vizianagaram,"May 20th, 2025",
+340,6623,Sarvam AI - Backend engineering,Bengaluru,"May 20th, 2025",60000
+341,7242,Sarvam AI - Gen AI,Bengaluru,"May 20th, 2025",60000
+342,7195,Sarvam AI - GTM - Strategy,Bengaluru,"May 20th, 2025",60000
+343,7243,Sarvam AI - ML,Bengaluru,"May 20th, 2025",60000
+344,5914,Scapia Technology Private Limited,Bengaluru,"May 20th, 2025",
+345,7292,SellerSetu,Mumbai,"May 20th, 2025",
+346,7335,ServCrust Private Limited - AI,Hyderabad,"May 22nd, 2025",15000
+347,7336,ServCrust Private Limited - BI,Hyderabad,"May 22nd, 2025",15000
+348,7337,ServCrust Private Limited - Frontend,Hyderabad,"May 22nd, 2025",15000
+349,6070,"ServCrust Private Limited, Hyderabad",Hyderabad,"May 20th, 2025",
+350,5183,"SG Analytics, Bengaluru",Bengaluru,"May 20th, 2025",
+351,5131,"Shell India Markets Pvt. Ltd.,Bengaluru",Bengaluru,"May 20th, 2025",15000
+352,6027,SHVND Private Limited,Secunderabad,"May 20th, 2025",
+353,5669,Siemens EDA (Formerly Mentor Graphics) - Analog,Bengaluru,"May 20th, 2025",
+354,6383,"Siemens Industry Software India Pvt. Ltd, - Pune",Pune,"May 22nd, 2025",40000
+355,7326,Siemens-Hyderabad,Hyderabad,"May 22nd, 2025",
+356,5578,SiFive India Pvt Ltd,Bengaluru,"May 20th, 2025",40000
+357,7212,Sigma Infosolutions Limited,Ahmedabad,"May 20th, 2025",35000
+358,4798,"Singlestore India Pvt Ltd,Hyderabad",Hyderabad,"May 20th, 2025",150000
+359,5316,SMARBL Technologies,Pune,"May 20th, 2025",50000
+360,6886,Socialseller Technology Private Limited - Non Tech,Raipur,"May 20th, 2025",
+361,6884,Socialseller Technology Private Limited - Tech,Raipur,"May 20th, 2025",
+362,6309,"Spanda.AI, Hyderabad",Hyderabad,"May 20th, 2025",
+363,6461,ST Microelectronics,Noida,"May 20th, 2025",40000
+364,7295,"Stada Pharmaceuticals, Mumbai",Mumbai,"May 20th, 2025",
+365,6277,Stampmyvisa- IT,Bengaluru,"May 20th, 2025",65000
+366,6224,Standard Chartered Global Business Services,Bengaluru,"May 22nd, 2025",
+367,7325,STMicroelectronics - Analog / Mixed Signal,Noida,"May 22nd, 2025",40000
+368,7324,STMicroelectronics - Digital Design & Verification,Noida,"May 22nd, 2025",40000
+369,7344,STN 10xscale Technology Private Limited - AI Tools,Hyderabad,"May 22nd, 2025",35000
+370,7343,STN 10xscale Technology Private Limited - Healthcare,Hyderabad,"May 22nd, 2025",35000
+371,7340,STN 10xscale Technology Private Limited - Next Gen,Hyderabad,"May 22nd, 2025",35000
+372,6079,"Supra Sciences Private Llmited, Hyderabad",Hyderabad,"May 20th, 2025",
+373,6899,Swiss Re Global Business Solutions India Private Limited,Bengaluru,"May 20th, 2025",50000
+374,4697,"Synchrony, Hyderabad",Hyderabad,"May 20th, 2025",
+375,5882,Synergiz Global Services Pvt Ltd,Hyderabad,"May 20th, 2025",20000
+376,6881,T.I.M.E.,Ahmedabad,"May 20th, 2025",10000
+377,5203,Tablespace Technologies,Bangalore,"May 22nd, 2025",
+378,7327,TCG Crest,Kolkata,"May 22nd, 2025",
+379,4685,"Techture Structures, Nagpur/Indore",Indore,"May 22nd, 2025",
+380,5861,Tectonic Technologies Inc - Software Engineering,Bengaluru,"May 20th, 2025",60000
+381,5630,Tega Industries - Samali,Samali,"May 20th, 2025",
+382,6496,Telus AI - Solution Engineering,Bengaluru,"May 20th, 2025",70000
+383,6495,Telus AI - Machine Learning,Bengaluru,"May 20th, 2025",150000
+384,5048,Telus AI - Product Management,Bengaluru,"May 20th, 2025",70000
+385,7305,TELUS AI- DevOps and Data Engineering,Bengaluru,"May 22nd, 2025",
+386,5806,TELUS AI- Product Designer,Bengaluru,"May 20th, 2025",45000
+387,4890,Telus International - Software Engineering,Bengaluru,"May 20th, 2025",102000
+388,5008,"Tenstorrent ,Bengaluru",Bengaluru,"May 20th, 2025",100000
+389,5224,Texas Instruments - Analog,Bengaluru,"May 20th, 2025",
+390,5249,Texas Instruments -- Digital,Bengaluru,"May 20th, 2025",
+391,5236,Texas Instruments - Embedded Software,Bengaluru,"May 20th, 2025",
+392,6551,THINKBYTE TECHNOLOGIES PRIVATE LIMITED,Vijayawada,"May 20th, 2025",15000
+393,7301,Thyssenkrupp Pune,Pune,"May 20th, 2025",
+394,5717,Timble Technologies,New Delhi,"May 20th, 2025",
+395,4709,"Time tooth Technologies Pvt Ltd, Noida/Bengaluru",Noida,"May 20th, 2025",
+396,7254,Times Internet Limited,Noida,"May 20th, 2025",25000
+397,7166,TMRW – House of Brands - Product,Bengaluru,"May 20th, 2025",
+398,6905,TMRW – House of Brands - SDE,Bengaluru,"May 20th, 2025",30000
+399,7167,TMRW – House of Brands - SDE (Data ),Bengaluru,"May 20th, 2025",30000
+400,6622,Tonbo Imaging,Bengaluru,"May 22nd, 2025",35000
+401,6895,Triomics Healthcare Pvt. Ltd- Frontend Intern,Bengaluru,"May 20th, 2025",40000
+402,6894,Triomics Healthcare Pvt. Ltd- NLP Research Engineer,Bengaluru,"May 20th, 2025",75000
+403,5108,Triomics Healthcare Pvt. Ltd- Product Management,Bangalore,"May 20th, 2025",40000
+404,7246,Truuchem Technologies Pvt Ltd (Atomgrid),Bengaluru,"May 20th, 2025",30000
+405,6369,Truva (Porch Technologies Private Limited) - Non Tech,Mumbai,"May 20th, 2025",70000
+406,6365,Truva (Porch Technologies Private Limited) - Tech,Bengaluru,"May 20th, 2025",90000
+407,7286,Tyfone CDI - Product Management,Hyderabad,"May 20th, 2025",25000
+408,7287,Tyfone CDI - Tech,Hyderabad,"May 20th, 2025",25000
+409,5040,UBER - Bengaluru,Bangalore,"May 20th, 2025",
+410,7278,UBS - FP&AR,Mumbai,"May 20th, 2025",60000
+411,7277,UBS - Group Risk Control Data Intelligence,Hyderabad,"May 20th, 2025",60000
+412,7279,UBS - RAS CS,Pune,"May 20th, 2025",60000
+413,7281,UBS - RAS Executive Treasury,Pune,"May 20th, 2025",60000
+414,7280,UBS - RAS GAM,Pune,"May 20th, 2025",60000
+415,7282,UBS - RAS One AIM,Pune,"May 20th, 2025",60000
+416,5660,Udaan,Bengaluru,"May 20th, 2025",45000
+417,5582,Unity Growth Investments Pvt Ltd- Non Tech,Hyderabad,"May 20th, 2025",
+418,7213,Universal Software,Ahmedabad,"May 20th, 2025",20000
+419,5116,"UST, Thiruvananthapuram",Thiruvananthapuram,"May 20th, 2025",50000
+420,7248,Virgio - Gen AI,Bengaluru,"May 20th, 2025",50000
+421,7247,Virgio - UI Engineering,Bengaluru,"May 20th, 2025",50000
+422,7190,Viridium.AI India Private Limited,Pune,"May 20th, 2025",35000
+423,7241,Virtuoso Optoelectronics Ltd - Business & Customer Strategy,Nashik,"May 20th, 2025",25000
+424,7239,Virtuoso Optoelectronics Ltd - Design & User Experience,Nashik,"May 20th, 2025",25000
+425,7237,Virtuoso Optoelectronics Ltd - Manufacturing,Nashik,"May 20th, 2025",25000
+426,7240,Virtuoso Optoelectronics Ltd - Packaging & Product Design,Nashik,"May 20th, 2025",25000
+427,7238,Virtuoso Optoelectronics Ltd - Supply Chain & Analytics,Nashik,"May 20th, 2025",25000
+428,4726,"Voicegain (Resolvity, Inc)",Bengaluru,"May 20th, 2025",42000
+429,6076,WCB Robotics India Pvt Ltd - Mechanical,Hyderabad,"May 20th, 2025",32500
+430,6334,WCB Robotics India Pvt. Ltd. - Electronics,Hyderabad,"May 20th, 2025",32500
+431,6538,WeWork India Management Limited,Bengaluru,"May 20th, 2025",60000
+432,7299,"WILP - ADAS / Autonomous Vehicle, Hyderabad",Hyderabad,"May 20th, 2025",
+433,6153,"WILP - Additive Manufacturing, Hyderabad",Hyderabad,"May 20th, 2025",
+434,4869,"WILP - Control systems,IC Engines, RSM,Hyderabad",Hyderabad,"May 22nd, 2025",
+435,7300,WILP - EHV Lab,Hyderabad,"May 22nd, 2025",
+436,6606,WILP - Electric and Hybrid Lab,Hyderabad,"May 20th, 2025",
+437,6138,WILP- Intelligent systems Lab,Hyderabad,"May 20th, 2025",
+438,7297,WILP-New Automotive Competency Centre Chennai (ACC),Chennai,"May 20th, 2025",
+439,7298,WILP-Vehicle security penetration testing facility in collaboration with Bosch,Hyderabad,"May 20th, 2025",
+440,7221,Windfall Research Limited,Bengaluru,"May 20th, 2025",15000
+441,7224,WizLearnr,Hyderabad,"May 20th, 2025",
+442,6576,Woyage AI Solutions Pvt. Ltd.,Bengaluru,"May 20th, 2025",80000
+443,4752,"Yugabyte Software Pvt. Ltd., Bengaluru",Bengaluru,"May 20th, 2025",125000
+444,7177,Zanskar Tech Pvt Ltd - ANALYST,Bengaluru,"May 20th, 2025",50000
+445,7175,Zanskar Tech Pvt Ltd - SDE,Bengaluru,"May 20th, 2025",75000
+446,7063,Zeo - Product Content,Delaware,"May 20th, 2025",50000
+447,7062,Zeo - Product Growth,Delaware,"May 20th, 2025",50000
+448,7061,Zeo - Product Management,Delaware,"May 20th, 2025",50000
+449,5188,"Zeotap India Pvt. Ltd.,Bengaluru",Bengaluru,"May 20th, 2025",65000
+450,7330,Zeta,Bengaluru,"May 22nd, 2025",60000
+451,6900,Zyduslife - Economics,Mumbai,"May 20th, 2025",50000
+452,6903,Zyduslife - Fundamental Analyst,Mumbai (Worli),"May 20th, 2025",50000
+453,6897,Zyduslife - Quant Analyst,Mumbai,"May 20th, 2025",50000

@@ -1,50 +1,31 @@
-from flask import Flask, request, render_template, jsonify
+from flask import Flask, request, render_template
 import pandas as pd
 import os
-import logging
 
-# Setup logging
-logging.basicConfig(level=logging.INFO)
 app = Flask(__name__)
 
-# Read and clean CSV
-data = pd.read_csv('students.csv')
-data['ID NO'] = data['ID NO'].astype(str).str.strip()  # Remove extra spaces in IDs
+# Load data
+stations_df = pd.read_csv('stations.csv')  # Sheet 1
+details_df = pd.read_csv('details.csv')    # Sheet 2
 
 @app.route('/')
 def home():
-    return '''
-        <form action="/result" method="post">
-            Enter Student ID: <input type="text" name="id">
-            <input type="submit">
-        </form>
-    '''
+    query = request.args.get('search', '').lower()
+    filtered = stations_df.copy()
+    
+    if query:
+        filtered = filtered[filtered['Station'].str.lower().str.contains(query)]
+    
+    return render_template('home.html', stations=filtered.to_dict(orient='records'), query=query)
 
-@app.route('/result', methods=['POST'])
-def result():
-    student_id = request.form['id'].strip()  # Clean up input
-    app.logger.info(f"📝 HTML Form Request: Student ID = {student_id}, from IP = {request.remote_addr}")
-
-    # Match after stripping spaces
-    student = data[data['ID NO'] == student_id]
-
-    if student.empty:
-        return "Student not found"
-
-    student_dict = student.to_dict(orient='records')[0]
-    return render_template('result.html', student=student_dict)
-
-@app.route('/api/student/<student_id>', methods=['GET'])
-def get_student_data(student_id):
-    student_id = student_id.strip()
-    app.logger.info(f"📡 API Request for Student ID = {student_id}, from IP = {request.remote_addr}")
-
-    student = data[data['ID NO'] == student_id]
-
-    if student.empty:
-        return jsonify({'error': 'Student not found'}), 404
-
-    return jsonify(student.to_dict(orient='records')[0])
+@app.route('/details/<int:station_id>')
+def details(station_id):
+    projects = details_df[details_df['ID'] == station_id]
+    
+    if projects.empty:
+        return f"No details found for Station ID {station_id}", 404
+    
+    return render_template('details.html', projects=projects.to_dict(orient='records'))
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))  # default to 5000 if not set

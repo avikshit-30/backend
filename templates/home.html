@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Station Directory</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background-color: #f7f9fc;
+            padding: 2rem;
+            color: #333;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .header p {
+            margin: 0;
+            font-size: 14px;
+            color: #666;
+        }
+
+        .search-box {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        input[type="text"] {
+            padding: 0.5rem;
+            width: 300px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        input[type="submit"] {
+            padding: 0.5rem 1rem;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+
+        .station-card {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            padding: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        .station-card a {
+            font-size: 1.2rem;
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        .station-card a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <h1>Station Directory</h1>
+        <p><b>Data last updated:</b> 22 May 2025</p>
+    </div>
+
+    <div class="search-box">
+        <form method="get">
+            <input type="text" name="search" placeholder="Search station..." value="{{ query }}">
+            <input type="submit" value="Search">
+        </form>
+    </div>
+
+    {% for s in stations %}
+    <div class="station-card">
+        <a href="/details/{{ s['ID'] }}">{{ s['Station'] }}</a><br>
+        <b>City:</b> {{ s['City'] }}<br>
+        <b>Date:</b> {{ s['Date'] }}<br>
+        <b>Stipend:</b> {{ s['Stipend'] }}
+    </div>
+    {% endfor %}
+</body>
+
+</html>
