@@ -17,6 +17,9 @@ def format_stipend(x):
 
 stations_df['Stipend'] = stations_df['Stipend'].apply(format_stipend)
 
+# Convert Date to datetime format
+stations_df['ParsedDate'] = pd.to_datetime(stations_df['Date'], format="%B %dth, %Y")
+
 @app.route('/')
 def home():
     query = request.args.get('search', '').lower()
@@ -30,6 +33,10 @@ def home():
         filtered = filtered.sort_values(by='Stipend', ascending=True)
     elif sort_order == 'desc':
         filtered = filtered.sort_values(by='Stipend', ascending=False)
+    elif sort_order == 'date_asc':
+        filtered = filtered.sort_values(by='ParsedDate', ascending=True)
+    elif sort_order == 'date_desc':
+        filtered = filtered.sort_values(by='ParsedDate', ascending=False)
 
     return render_template('home.html', stations=filtered.to_dict(orient='records'), query=query)
 
