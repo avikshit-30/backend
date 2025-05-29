@@ -1,7 +1,11 @@
 from flask import Flask, request, render_template
 import pandas as pd
 import os
+import re
 
+def remove_day_suffix(date_str):
+    # Removes 'st', 'nd', 'rd', 'th' after a digit
+    return re.sub(r'(\d+)(st|nd|rd|th)', r'\1', date_str)
 app = Flask(__name__)
 
 # Load data
@@ -18,7 +22,10 @@ def format_stipend(x):
 stations_df['Stipend'] = stations_df['Stipend'].apply(format_stipend)
 
 # Convert Date to datetime format
-stations_df['ParsedDate'] = pd.to_datetime(stations_df['Date'], format="%B %dth, %Y")
+# Clean and convert Date to datetime format
+stations_df['CleanDate'] = stations_df['Date'].apply(remove_day_suffix)
+stations_df['ParsedDate'] = pd.to_datetime(stations_df['CleanDate'], format="%B %d, %Y")
+
 
 @app.route('/')
 def home():
